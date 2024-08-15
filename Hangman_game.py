@@ -95,4 +95,4 @@ while Game_over=='False':
         print(f"Bravo!!! The word is: {check_wrd}")
     print(check_wrd)
 print("Thanks for playing!!")
-print("testing my Git")
+print("testing my Git for Dev branch")
